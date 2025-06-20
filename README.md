@@ -74,7 +74,7 @@ runcmd:
 Главная страница Nginx отображает хостнейм сервера.
 
 [Terraform playbook](https://github.com/aniljich/9.4/blob/main/Terraform/machines.tf) с описанием виртуальных машин
-[Terraform файл](https://github.com/aniljich/9.4/blob/main/load_balancer.tf) с описанием балансировщика
+[Terraform файл](https://github.com/aniljich/9.4/blob/main/Terraform/load_balancer.tf) с описанием балансировщика
 
 Скриншот балансировщика:<br>
 ![Load_balancer](https://github.com/aniljich/9.4/blob/main/img/image1.png)
